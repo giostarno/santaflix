@@ -1,0 +1,32 @@
+header{
+    color: red;
+    background: black;
+}
+
+body{
+    color: white;
+    background: black;
+}
+
+section{
+    color: white;
+    background: blue;
+}
+
+img{
+height: 200px;
+}
+
+.seletor{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.seletor Img{
+    opacity: 0.5;
+}
+
+.seletor Img:hover{
+    opacity: 1;
+}
